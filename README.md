@@ -1,5 +1,5 @@
 ## Ola! Eu sou Saulo Miller
-Estudante de Engenharia da Computação e entusiasta de tecnologia.
+Estudante de Engenharia de software e entusiasta de tecnologia.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulomiller&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulomiller&hide_progress)
