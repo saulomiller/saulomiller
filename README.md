@@ -1,16 +1,42 @@
-## Ola! Eu sou Saulo Miller
-Estudante de Engenharia de software e entusiasta de tecnologia.
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulomiller&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulomiller&hide_progress)
+# Olá! Eu sou o Saulo 😎
 
-## Tecnologias que uso no meu dia
-<div styLe="display: inline_block"><br/>
-  <img aling="center" alt="html5" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/>
-  <img aling="center" alt="html5" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
-  <img aling="center" alt="html5" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/>
-  <img aling="center" alt="html5" src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white/>
+Estudante de engenharia de software pela wyden.<br>
+Gosto de tecnologia e estou buscando estágio em desenvolvimento.
 
-  ## Redes sociais
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-miller-rodrigues-aa5171139)
+## O que estou estudando
 
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+## GitHub Stats
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saulomiller&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomiller&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+## Projetos
+
+Alguns projetos:
+- 🤖 [bot_discord](https://github.com/saulomiller/bot_discord) — bot de musica para discord com interface web, rádios, soundboard e soundcloud, rodando em Docker
+
+Antigos:
+- 🧩 [bo6-terminus](https://github.com/saulomiller/bo6-terminus) — calculadora easter egg do mapa Terminus (BO6)
+- 🐍 [explorando-pipeline-de-etl-com-py](https://github.com/saulomiller/explorando-pipeline-de-etl-com-py) — pipeline ETL com Py bootcamp santander
+
+## Homelab
+
+Servidor domestico em notebook reutilizado rodando ubuntu server com docker
+- 🛡️ **Pi-hole** — bloqueio de anúncios via DNS e registros DNS locais
+- ☁️ **Nextcloud** — nuvem privada, fotos e arquivos
+- 🤖 **Bot Discord** — bot Python rodando em produção
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-miller-rodrigues-aa5171139)
