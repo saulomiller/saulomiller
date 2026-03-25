@@ -16,10 +16,12 @@ Gosto de tecnologia e estou buscando estágio em desenvolvimento.
 
 ## GitHub Stats
 
+## GitHub Stats
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saulomiller&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomiller&layout=compact&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saulomiller&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomiller&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </div>
+
 
 ## Projetos
 
