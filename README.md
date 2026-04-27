@@ -1,6 +1,6 @@
 # Olá! Eu sou o Saulo 😎
 
-Estudante de engenharia de software pela wyden.<br>
+Estudante de engenharia de software pela Estácio .<br>
 Gosto de tecnologia e estou buscando estágio em desenvolvimento.
 
 ## O que estou estudando
