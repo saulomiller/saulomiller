@@ -50,7 +50,7 @@ Painel web em Node.js para gerenciar um servidor de Valheim em Docker, com monit
 | Serve Interface | Gerenciamento do meu servidor |
 | TeamSpeak 6 | Servidor de voz |
 
-Uso esse ambiente para praticar Linux, containers e administração de serviços, além de manter meus projetos em funcionamento.
+Uso esse ambiente para praticar Linux, contêineres e administração de serviços.
 
 ## GitHub Stats
 
